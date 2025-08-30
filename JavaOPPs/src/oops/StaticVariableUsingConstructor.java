@@ -20,7 +20,7 @@ public class StaticVariableUsingConstructor {
 		StaticVariableUsingConstructor obj3 = new StaticVariableUsingConstructor();
 		StaticVariableUsingConstructor obj4 = new StaticVariableUsingConstructor();
 		
-System.out.println("hello api");
+System.out.println("hello api done");
 	}
 
 }
