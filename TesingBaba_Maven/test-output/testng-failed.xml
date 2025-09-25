@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tests.UploadPageTest">
+      <class name="tests.CheckboxTest">
         <methods>
-          <include name="clickonchoose"/>
+          <include name="getResultAnalysis"/>
           <include name="launchURl"/>
+          <include name="clickonmobile"/>
         </methods>
-      </class> <!-- tests.UploadPageTest -->
+      </class> <!-- tests.CheckboxTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

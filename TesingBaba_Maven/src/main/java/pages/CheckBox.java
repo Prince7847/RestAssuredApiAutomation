@@ -1,13 +1,9 @@
 package pages;
 
-import java.util.ArrayList;
-
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
-import org.testng.annotations.Factory;
-
 import baselibrary.BaseLibrary;
 
 public class CheckBox extends BaseLibrary {
